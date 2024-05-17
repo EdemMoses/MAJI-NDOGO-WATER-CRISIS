@@ -19,6 +19,7 @@ README.md: Project documentation and overview.
 To set up and explore the project locally, follow these steps:
 
 #### Clone the repository:
+Open your terminal or command prompt and enter:  
 git clone https://github.com/EdemMoses/MAJI-NDOGO-WATER-CRISIS.git  
 cd MAJI-NDOGO-WATER-CRISIS/Maji\ Ndogo\ Water\ Crisis\ Project  
 
